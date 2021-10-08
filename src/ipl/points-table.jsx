@@ -36,8 +36,7 @@ export class PointsTable extends React.Component {
         2,
         2,
         4,
-        6,
-        "w",
+        6
       ],
       currentScore: 0,
       wicketsDown: 0,

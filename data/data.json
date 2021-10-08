@@ -103,11 +103,11 @@
     {
       "id": 2,
       "name": "DC",
-      "points": 0,
+      "points": 2,
       "rr": 0,
       "standings": 0,
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "lost": 0,
       "team": [
         {
@@ -810,6 +810,15 @@
       "winningTeam": "SRH",
       "losingTeam": "MI",
       "id": 1
+    },
+    {
+      "defendingTeam": "DC",
+      "chasingTeam": "MI",
+      "defendingScore": 138,
+      "chasingScore": 82,
+      "winningTeam": "DC",
+      "losingTeam": "MI",
+      "id": 2
     }
   ]
 }
