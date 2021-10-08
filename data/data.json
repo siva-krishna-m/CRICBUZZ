@@ -1,0 +1,815 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "RCB",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Virat Kohli",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 10
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "DC",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Prithvi Shaw",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 1
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MI",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Rohit Sharma",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 4
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SRH",
+      "points": 2,
+      "rr": 0,
+      "standings": 0,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Jason Roy",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 0
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "RR",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Sanju Samson",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 1
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "PBKS",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "KL Rahul",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 1
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "KKR",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Subman Gill",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 1
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "CSK",
+      "points": 0,
+      "rr": 0,
+      "standings": 0,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "team": [
+        {
+          "playerName": "Rituraj Gaikwad",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 1
+        },
+        {
+          "playerName": "Player 2",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 3",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 4",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 5",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 6",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 7",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 8",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 9",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 10",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        },
+        {
+          "playerName": "Player 11",
+          "careerRuns": 10000,
+          "runsToday": 0,
+          "strikeRate": "145.00",
+          "average": "40.00",
+          "hundreds": 3
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "defendingTeam": "SRH",
+      "chasingTeam": "MI",
+      "defendingScore": 113,
+      "chasingScore": 87,
+      "winningTeam": "SRH",
+      "losingTeam": "MI",
+      "id": 1
+    }
+  ]
+}
